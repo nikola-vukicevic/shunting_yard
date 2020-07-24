@@ -1,0 +1,24 @@
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Form1.resources
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Properties.Resources.resources
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csproj.GenerateResource.Cache
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.exe
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.pdb
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.exe
+c:\users\kurs.systempro\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.pdb
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.pdb
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Form1.resources
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Properties.Resources.resources
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csproj.GenerateResource.Cache
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.exe
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.pdb
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.exe
+C:\Users\kurs.SYSTEMPRO\documents\visual studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csprojResolveAssemblyReference.cache
+G:\Sistem\Desktop\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csprojResolveAssemblyReference.cache
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.exe
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.pdb
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.exe
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\bin\Debug\Shunting Yard.pdb
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csprojResolveAssemblyReference.cache
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Form1.resources
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting_Yard.Properties.Resources.resources
+G:\Svastara\Visual Studio 2010\Projects\Shunting Yard\Shunting Yard\obj\x86\Debug\Shunting Yard.csproj.GenerateResource.Cache
